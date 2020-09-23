@@ -1,0 +1,23 @@
+.login-card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 300px;
+}
+.table_border {
+    border: solid black;
+  }
+.table_head {
+    text-align: center;
+    font-size: 25px;
+}
+#result {
+    font-size: 20px;
+    color: red;
+}
+#result1 {
+    font-size: 20px
+
+}
